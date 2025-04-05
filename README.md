@@ -185,7 +185,7 @@ Exibir uma mensagem final com os dados do usuário.
 
 ## 🧠 Lógica do Programa
 
-```
+```python
 import string
 
 # Inicialização das variáveis de controle
@@ -239,7 +239,6 @@ bonus_recebido = 1000 + salario * bonus
 
 # Exibe o resultado
 print(f"\\n{nome}, seu salário é R$ {salario:.2f} e seu bônus final é R$ {bonus_recebido:.2f}.")
-
 ```
 
 ## ✅ Destaques
